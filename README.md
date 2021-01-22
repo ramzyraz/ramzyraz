@@ -18,11 +18,11 @@
 <h3 align="left">Data Science:</h3> 
  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
-<br /><br />
+<br />
 ⚡Fun fact: The greatest Liverpool team hasn't scored a single goal in 2021 :joy:
 
 <h3 align="left">You can reach me at:</h3>
 
 :e-mail:	Email: ramezsalman@gmail.com
 <br />
-:adult:	LinkedIn: [ramez-salman](https://www.linkedin.com/in/ramez-salman/).
+:adult:	LinkedIn: [ramez-salman](https://www.linkedin.com/in/ramez-salman/)

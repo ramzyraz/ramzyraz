@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ramez Salman</h1>
+<h3 align="center">I'm a Computer Science Senior at LUMS, Lahore.</h3>
 
 - 🔬 I'm passionate about **Machine Learning and Computer Vision related areas. Also love working on Web Development and Mobile Development Projects.**
 

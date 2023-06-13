@@ -12,3 +12,5 @@
   <br/>
   <div align="center"> ⚡	 <em>Fun Fact</em>: I love watching football and have been a Manchester United supporter for as long as I can remember. </div>
  <div>
+  
+<h3 align="left">🙋‍♀️ Let's Connect!</h3>

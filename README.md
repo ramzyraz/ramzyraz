@@ -1,6 +1,6 @@
 # Ramez Salman
 
-Full-stack engineer in Lahore. I'm on the founding engineering team of a recruitment-tech startup, where I build AI agents, real-time features and the platform around them, mostly in TypeScript and Python.
+Founding engineer in Lahore. I'm on the founding engineering team of a recruitment-tech startup, where I build AI agents, real-time features and the platform around them, mostly in TypeScript and Python.
 
 Most of my work lives in private repos. Two things I've built on my own:
 
